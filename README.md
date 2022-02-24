@@ -1,8 +1,7 @@
 ## Hello! I'm Amanda Gomes Rebolsas 👋
 
-  - 🔭 I’m currently working as Frontend
   - 🌱 I’m currently learning JavaScript and react.js
-  - 😄 Pronouns: she/hers
+  
 
 <div align="relative">
   <a href="https://github.com/Mandiegr">
