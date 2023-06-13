@@ -1,7 +1,6 @@
 ## Hello! I'm Amanda Gomes Rebolsas 👋
 
-  - 🌱 I’m currently studying JavaScript and react.js
-  
+   🌱 I'm currently studying Web and Mobile Development ( React.js| React Native)
 
 <div align="relative">
   <a href="https://github.com/Mandiegr">
