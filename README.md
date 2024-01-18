@@ -1,6 +1,7 @@
 ## Hello! I'm Amanda Gomes Rebolsas 👋
 
-   🌱 I'm currently studying Web and Mobile Development ( React.js| React Native)
+   🌱  Front-End and Mobile Developer ( React.js/Nextjs| React Native)
+    I'm currently studying Machine Learning and Deep Learning with Python 🐍 
 
 <div align="relative">
   <a href="https://github.com/Mandiegr">
@@ -14,6 +15,7 @@
   <img align="center" alt="mgr-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="mgr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mgr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="mgr-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
  ##
