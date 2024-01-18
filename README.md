@@ -1,7 +1,7 @@
 ## Hello! I'm Amanda Gomes Rebolsas 👋
 
    🌱  Front-End and Mobile Developer ( React.js/Nextjs| React Native)
-    I'm currently studying Machine Learning and Deep Learning with Python 🐍 
+   ## I'm currently studying Machine Learning and Deep Learning with Python 🐍 
 
 <div align="relative">
   <a href="https://github.com/Mandiegr">
