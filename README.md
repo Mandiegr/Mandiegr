@@ -1,6 +1,6 @@
 ## Hello! I'm Amanda Gomes Rebolsas 👋
 
-🌱 FullStack and Mobile Developer ( React.js/Nextjs| React Native) 
+🌱 FullStack and Mobile Developer ( Reactjs/Nextjs| React Native) 
      <br/>I'm currently studying Machine Learning and Deep Learning with Python 🐍 
 
 <div align="relative">
