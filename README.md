@@ -1,7 +1,10 @@
 ## Hello! I'm Amanda Gomes Rebolsas 👋
 
-🌱 FullStack and Mobile Developer ( Reactjs/Nextjs| React Native) 
+🌱 FullStack and Mobile Developer ( Reactjs/Nextjs/Nodejs | React Native) 
+     <br/> Graduated in Systems Analysis and Development - UNAMA
+     <br/> Postgraduate degree in Software Engineering - PUC MINAS
      <br/>I'm currently studying Machine Learning and Deep Learning with Python 🐍 
+     
 
 <div align="relative">
   <a href="https://github.com/Mandiegr">
