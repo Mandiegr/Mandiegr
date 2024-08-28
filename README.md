@@ -3,7 +3,7 @@
 🌱 FullStack and Mobile Developer ( Reactjs/Nextjs/Nodejs | React Native) 
      <br/> Graduated in Systems Analysis and Development - UNAMA
      <br/> Postgraduate degree in Software Engineering - PUC MINAS
-     <br/>I'm currently studying Machine Learning and Deep Learning with Python 🐍 
+     <br/>I'm currently studying Data science and programming languages: Python, Java, PHP and C# 🐍 
      
 
 <div align="relative">
