@@ -29,7 +29,7 @@
   
  ### 💌 Vamos nos conectar!
 <div align="relative">
-  <a href="mailto:mendiiegr5@gmail.com">
+  <a href="mailto:amandagr.eng.softweare@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-FF6F91?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/amanda-gomes-rebolsas-5138a0222" target="_blank">
