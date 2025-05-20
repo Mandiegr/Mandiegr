@@ -1,5 +1,3 @@
-## Hello! I'm Amanda Gomes Rebolsas 👋
-
  ## Hello! I'm Amanda Gomes Rebolsas 👋
 
 🌱 FullStack and Mobile Developer (Reactjs / Nextjs / Nodejs | React Native)  
